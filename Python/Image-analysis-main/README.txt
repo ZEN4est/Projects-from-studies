@@ -1,0 +1,1 @@
+A character recognition program created in a 4-person group.

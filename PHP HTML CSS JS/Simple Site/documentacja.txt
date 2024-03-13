@@ -1,0 +1,14 @@
+Funkcjonalności:
+- symulacja rzutu ukośnego
+- obliczanie maksymalnej wysokości rzutu oraz zasięgu rzutu
+- Tworzenie konta
+- Logowanie do serwisu
+- Dla zalogowanego użytkownika możliwość zapisu parametrów rzutu do bazy danych
+
+Wykorzystane technologie:
+- php dla serwera
+- autoryzacja odbywa się poprzez sesje
+- Połączenie klienta z serwerem poprzez metodę POST
+- baza danych BerkeleyDB
+- animacja wykonana w javascript
+- canvas do rysowania animacji

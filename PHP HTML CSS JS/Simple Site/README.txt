@@ -1,0 +1,1 @@
+The project completed for a course assignment during my studies.

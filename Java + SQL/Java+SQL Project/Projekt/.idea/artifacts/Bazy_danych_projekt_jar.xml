@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Bazy_danych_projekt:jar">
+    <output-path>$USER_HOME$/Pulpit/projekt</output-path>
+    <root id="archive" name="BD2.jar">
+      <element id="module-output" name="BD2" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.7.1/postgresql-42.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.41.0/checker-qual-3.41.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
